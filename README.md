@@ -36,7 +36,8 @@ User dapat melakukan:
 ---
 
 # 🏗️ Struktur Project
-nemo/
+```
+Perpus/
 │
 ├── assets/
 │ └── images/ # Cover buku
@@ -84,7 +85,7 @@ nemo/
 ├── library.sql
 │
 └── index.php
-
+```
 ---
 
 ## 🛠️ Teknologi yang Digunakan
